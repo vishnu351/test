@@ -19,7 +19,7 @@ function vechileType(noofpassangers){
     }else if(5 > noofpassangers > 2){
         return "van"
     }else if(24 > noofpassangers > 5){
-        return "bus"
+        return "buses"
     }else {
         return "train"
     }
